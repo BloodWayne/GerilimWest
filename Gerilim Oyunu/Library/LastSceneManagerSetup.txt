@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: Assets/MS/Building-kit-001/scene/Basic_Building_Assets.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
